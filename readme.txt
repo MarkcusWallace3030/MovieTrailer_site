@@ -1,11 +1,14 @@
 ####################  Movie Trailer Website Asignment   #########################
 
 
-To start the program:
-Navigate to the directory where the python files were downloaded, within the console(CLI)
-type in "python favorites.py"
+Python, Javascript and HTML web applciation that display movies,trailers and descriptions.
 
-This command shod execute the favorites python file which opens the movie trailer website.
+Download the files and open the fresh_tomatoes.html file
+
+
+
+
+
 
 
 #############################
